@@ -1,0 +1,42 @@
+@font-face {
+  font-family: b nazanin;
+  src: url('/static/font/B_NAZANIN/B-NAZANIN.TTF');
+}
+
+a {
+    font-family: b nazanin;
+    font-size: 18;
+}
+
+p {
+    font-family: b nazanin;
+    font-size: 20;
+    text-align: center;
+}
+
+.row {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-family: b nazanin;
+    text-align: center;
+    color: orangered;
+}
+
+h6 {
+    font-family: b nazanin;
+    text-align: center;
+    color: black;
+}
+
+h4 {
+    font-family: b nazanin;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #f1f1f9;
+}
