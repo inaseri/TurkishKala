@@ -19,6 +19,13 @@ p {
     margin-bottom: 20px;
 }
 
+h1 {
+    font-family: b nazanin;
+    text-align: center;
+    color: orangered;
+    font-size: 50px;
+}
+
 h3 {
     font-family: b nazanin;
     text-align: center;
@@ -35,6 +42,10 @@ h4 {
     font-family: b nazanin;
     text-align: center;
     color: white;
+}
+
+.fas {
+    font-size: 40px
 }
 
 body {
